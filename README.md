@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ekho852
 - 👀 I’m interested in developing my coding skills for data analysis and visualisation
-- 🌱 I’m currently learning SQL and Python
+- 🌱 I’m currently learning SQL and Python in my free time and attending the Harvard CS50x course
 
 <!---
 Ekho852/Ekho852 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
