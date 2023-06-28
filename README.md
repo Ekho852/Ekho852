@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @Ekho852
-- 👀 I’m interested in developing my coding skills for programming, data analysis and visualisation
-- 🌱 I’m currently learning SQL and Python in my free time and completing a diploma in software engineering in NUIG
+👩‍🔬🔬 Hi there! I'm a passionate scientist with a strong software engineering background. 
+
+✨ Quality System Analyst | Scientist | Java  | Python | SQL | C | AWS | JavaScript ✨
+
+🎓 I hold a degree in Software Engineering, where I used and developed using sever different programming languages including Python, SQL, C, Java, AWS, and JavaScript. 💻
+
+🔬 As a scientist, I'm driven by curiosity and a deep desire to uncover the mysteries of the universe. 🌌 I enjoy leveraging my software engineering expertise to develop innovative solutions and analyze complex data sets.
+
+🌐 My goal is to combine my scientific background with my software engineering skills to drive meaningful advancements in research and development. I'm always eager to collaborate on exciting projects and contribute to the scientific community.
 
 <!---
 Ekho852/Ekho852 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
